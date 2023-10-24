@@ -12,9 +12,9 @@ Front-end Development: HTML, CSS, JavaScript, React.js, Next.js.
 CSS Frameworks: Bootstrap.
 Back-end Development: Node.js, Sequelize, PostgreSQL, Firebase.
 Version Control: Git
-Data Structures and Algorithms
+Estructura de datos y Algoritmos
 
-## Languages
+## Lenguajes
 
 English: Fluent C2
 Spanish: Native
